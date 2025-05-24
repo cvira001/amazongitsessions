@@ -1,2 +1,1 @@
-this is my first file
-new content added to file 1
+feature3 content
